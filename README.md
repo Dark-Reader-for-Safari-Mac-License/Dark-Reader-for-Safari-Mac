@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://pic.macked.app/static/d933ebdd452545f630e375d9716f61a1-1677132924.webp" width="200" alt="Dark Reader for Safari macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Dark%20Reader%20for%20Safari">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Dark%20Reader%20for%20Safari">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Dark Reader for Safari macOS page">
  </a><br><br>
  <div align="center">
